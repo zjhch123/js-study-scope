@@ -160,4 +160,4 @@ var f = obj.getFoo();
 f(); // obj
 ```
 
-> 以上所有测试代码，都可以在[我的github]()内下载并调试。
+> 以上所有测试代码，都可以在[我的github](https://github.com/zjhch123/js-study-scope)内下载并调试。
